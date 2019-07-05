@@ -1,0 +1,486 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 720.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='0.00' y='0.00' width='720.00' height='576.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+<defs>
+  <clipPath id='cp1'>
+    <rect x='56.19' y='24.65' width='658.33' height='515.46' />
+  </clipPath>
+</defs>
+<rect x='56.19' y='24.65' width='658.33' height='515.46' style='stroke-width: 1.07; stroke: none; fill: #EBEBEB;' clip-path='url(#cp1)' />
+<polyline points='56.19,460.57 714.52,460.57 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,348.25 714.52,348.25 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,235.93 714.52,235.93 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,123.60 714.52,123.60 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='214.36,540.12 214.36,24.65 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='385.35,540.12 385.35,24.65 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='556.35,540.12 556.35,24.65 ' style='stroke-width: 0.53; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,516.73 714.52,516.73 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,404.41 714.52,404.41 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,292.09 714.52,292.09 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,179.77 714.52,179.77 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='56.19,67.44 714.52,67.44 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='128.86,540.12 128.86,24.65 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='299.86,540.12 299.86,24.65 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='470.85,540.12 470.85,24.65 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='641.85,540.12 641.85,24.65 ' style='stroke-width: 1.07; stroke: #FFFFFF; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<polyline points='86.11,444.58 88.96,442.62 91.81,440.51 94.66,438.20 97.51,435.54 100.36,432.45 103.21,429.06 106.06,425.24 108.91,420.81 111.76,414.46 114.61,408.23 117.46,401.74 120.31,394.73 123.16,387.30 126.01,379.77 128.86,370.53 131.71,360.65 134.56,351.47 137.41,342.89 140.26,334.75 143.11,326.96 145.96,319.43 148.81,312.47 151.66,304.92 154.51,299.47 157.36,293.84 160.21,288.45 163.06,283.85 165.91,278.75 168.76,273.58 171.61,269.33 174.46,265.13 177.31,261.06 180.16,257.29 183.01,253.87 185.86,250.77 188.71,247.39 191.56,243.64 194.41,239.55 197.26,237.75 200.11,234.97 202.96,232.45 205.81,229.97 208.66,227.11 211.51,224.86 214.36,222.61 217.21,220.25 220.06,218.53 222.91,216.22 225.76,214.52 228.61,212.56 231.46,210.75 234.31,209.24 237.16,207.84 240.01,205.83 242.86,202.76 245.71,200.17 248.56,198.34 251.41,198.18 254.26,198.10 257.11,197.65 259.96,197.94 262.81,197.71 265.66,198.88 268.51,201.42 271.36,202.86 274.21,218.52 277.06,232.78 279.91,238.18 282.76,240.75 285.61,242.45 288.46,243.64 291.31,244.29 294.16,243.85 297.01,243.27 299.86,242.53 302.71,241.06 305.56,239.33 308.41,237.05 311.26,233.79 314.11,230.36 316.96,226.93 319.81,222.77 322.66,218.84 325.51,214.85 328.36,211.11 331.21,207.49 334.06,203.90 336.91,200.86 339.76,197.65 342.61,192.06 345.46,184.99 348.31,179.04 351.16,173.41 354.01,167.24 356.86,167.95 359.71,168.00 362.55,167.07 365.40,166.21 368.25,164.98 371.10,163.14 373.95,160.68 376.80,155.87 379.65,152.18 382.50,149.96 385.35,145.70 388.20,152.95 391.05,150.40 393.90,149.24 396.75,149.01 399.60,146.88 402.45,147.19 405.30,147.16 408.15,147.00 411.00,146.06 413.85,143.97 416.70,145.57 419.55,144.35 422.40,143.51 425.25,141.41 428.10,141.58 430.95,140.66 433.80,140.90 436.65,140.84 439.50,141.04 442.35,141.88 445.20,140.60 448.05,139.51 450.90,139.73 453.75,133.44 456.60,121.03 459.45,116.75 462.30,117.24 465.15,115.81 468.00,128.80 470.85,139.53 473.70,144.54 476.55,141.60 479.40,130.41 482.25,135.57 485.10,129.78 487.95,128.17 490.80,126.56 493.65,122.58 496.50,121.99 499.35,118.22 502.20,116.61 505.05,116.69 507.90,112.36 510.75,112.73 513.60,109.22 516.45,111.13 519.30,108.97 522.15,107.34 525.00,105.97 527.85,105.20 530.70,109.55 533.55,110.27 536.40,109.20 539.25,107.86 542.10,105.84 544.95,105.10 547.80,103.76 550.65,102.87 553.50,101.76 556.35,101.01 559.20,101.05 562.05,100.56 564.90,98.81 567.75,98.40 570.60,96.50 573.45,95.60 576.30,93.23 579.15,90.76 582.00,85.46 584.85,83.24 587.70,85.69 590.55,81.28 593.40,76.43 596.25,70.70 599.10,65.35 601.95,61.73 604.80,59.09 607.65,56.21 610.50,51.57 613.35,48.46 616.20,48.08 619.05,49.63 621.90,113.77 624.75,204.21 627.60,263.62 630.45,301.55 633.30,322.21 636.15,338.21 639.00,352.87 641.85,365.87 644.70,379.47 647.55,389.62 650.40,397.24 653.25,404.08 656.10,411.71 658.95,420.20 661.80,426.03 664.65,430.08 667.50,433.97 670.35,437.78 673.20,440.63 676.05,443.29 678.90,445.50 681.75,447.78 684.60,450.01 ' style='stroke-width: 1.07; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='128.86' y1='516.69' x2='257.11' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<line x1='299.86' y1='516.69' x2='428.10' y2='516.69' style='stroke-width: 4.27; stroke: #BEBEBE; stroke-linecap: butt;' clip-path='url(#cp1)' />
+<defs>
+  <clipPath id='cp2'>
+    <rect x='0.00' y='0.00' width='720.00' height='576.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cp2)'><text x='38.21' y='520.93' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>0  </text></g>
+<g clip-path='url(#cp2)'><text x='22.55' y='408.61' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>250 k</text></g>
+<g clip-path='url(#cp2)'><text x='22.55' y='296.29' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>500 k</text></g>
+<g clip-path='url(#cp2)'><text x='22.55' y='183.96' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>750 k</text></g>
+<g clip-path='url(#cp2)'><text x='31.70' y='71.64' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>1 M</text></g>
+<polyline points='53.45,516.73 56.19,516.73 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='53.45,404.41 56.19,404.41 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='53.45,292.09 56.19,292.09 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='53.45,179.77 56.19,179.77 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='53.45,67.44 56.19,67.44 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='128.86,542.86 128.86,540.12 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='299.86,542.86 299.86,540.12 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='470.85,542.86 470.85,540.12 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<polyline points='641.85,542.86 641.85,540.12 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' clip-path='url(#cp2)' />
+<g clip-path='url(#cp2)'><text x='114.18' y='553.45' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>20:00</text></g>
+<g clip-path='url(#cp2)'><text x='285.18' y='553.45' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>21:00</text></g>
+<g clip-path='url(#cp2)'><text x='456.17' y='553.45' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>22:00</text></g>
+<g clip-path='url(#cp2)'><text x='627.17' y='553.45' style='font-size: 8.80pt; fill: #4D4D4D; font-family: Arial;'>23:00</text></g>
+<g clip-path='url(#cp2)'><text transform='translate(18.17,337.82) rotate(-90)' style='font-size: 11.00pt; font-family: Arial;'>Concurrent plays</text></g>
+<g clip-path='url(#cp2)'><text x='125.35' y='18.08' style='font-size: 13.20pt; font-family: Arial;'>03/07/2018 20:00 - Round of 16 - Colombia vs England   -&gt; [ 1 : 2 ]</text></g>
+</svg>
